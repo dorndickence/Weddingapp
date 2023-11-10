@@ -3,5 +3,5 @@ public class BudgetItem {
     private String category;
     private double amount;
     
-    // Constructor, getters, and setters
+    // we can add Constructor, getters, and setters
 }

@@ -19,16 +19,9 @@ public class DatabaseManager {
         }
     }
 
-    // Implement other database operations (e.g., saveRSVP, saveVendor, etc.) similarly
+    // add other database operations like saveRSVP, saveVendor,saveBudgetItem
 
     public static void main(String[] args) {
-        // Test the database operations here
-        DatabaseManager dbManager = new DatabaseManager();
-        Guest guest = new Guest();
-        guest.setName("John Doe");
-        guest.setEmail("johndoe@example.com");
-        guest.setPhone("1234567890");
-        guest.setAddress("123 Main St");
-        dbManager.saveGuest(guest);
+     
     }
 }

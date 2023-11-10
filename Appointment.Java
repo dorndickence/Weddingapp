@@ -8,5 +8,5 @@ public class Appointment {
     private LocalTime time;
     private String location;
     
-    // Constructor, getters, and setters
+    // here we can add constructor,getters,setters
 }
